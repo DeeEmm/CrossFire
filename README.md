@@ -1,8 +1,7 @@
-# ~~CrossFire
-~Repository of files related to CrossFire CNC Plasma Table
+Repository for Lotos LTD5500D plasma cut settings based on TomWS1/Crossfire repo.
 
-~~This repository will be used to store and propagate files related to the CrossFire CNC Plasma table and associated hardware and software.  While it is believed that this information is accurate, use at your own risk as my setup may be entirely different from yours.
+DIY plasma table based on DDCSV controller using Lotos LTD500D plasma with Proma THC controller.
 
-Repository for Lotos LTD5500D plasma cut settings based on TomWS1s Crossfire repo.
+Running DeeEmm DDCSV post processor with Fusion360 - https://github.com/DeeEmm/DDCSV11-Plasma
 
-DIY plasma table based on DDCSV controller
+The aim for this project is to create matrix of usable cuttting speeds and feeds
